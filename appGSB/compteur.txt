@@ -1,0 +1,1 @@
+insert into lignefraisforfait (idVisiteur,	mois, idFraisForfait, quantite) values ('1','01','ETP',2)P',1)

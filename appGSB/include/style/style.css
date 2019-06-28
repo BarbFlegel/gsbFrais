@@ -1,0 +1,54 @@
+body{
+	font-family: Arial;
+	color: ;
+	margin:0;
+	padding:0;
+}
+
+h2, h5 {
+	color: #ccc;
+}
+
+.content{
+margin-top:30px;
+line-height:1.5em;
+}
+.main{
+float:left;
+width:65%;
+}
+.side{
+width:30%;float:right;
+}
+.block{
+/*border:#ccc 1px solid;
+padding:5px 15px 25px 15px;
+background:#fcfcfc;*/
+overflow:hidden;
+}
+
+/*NAV STYLE*/
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+  }
+  
+  li {
+	float: left;
+  }
+  
+  li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+	background-color: #111;
+  }
